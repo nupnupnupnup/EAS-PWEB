@@ -8,7 +8,7 @@
 	  <div class="content-wrapper">
 	    <div class="container">
 
-	      <!-- Main content -->
+	      
 	      <section class="content">
 	      	<?php
 	      		$parse = parse_ini_file('admin/config.ini', FALSE, INI_SCANNER_RAW);

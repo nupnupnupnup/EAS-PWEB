@@ -1,4 +1,4 @@
-<!-- Preview -->
+
 <div class="modal fade" id="preview_modal">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -17,7 +17,7 @@
     </div>
 </div>
 
-<!-- Platform -->
+
 <div class="modal fade" id="platform">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -36,7 +36,7 @@
     </div>
 </div>
 
-<!-- View Ballot -->
+
 <div class="modal fade" id="view">
     <div class="modal-dialog">
         <div class="modal-content">
